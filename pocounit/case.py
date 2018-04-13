@@ -27,6 +27,7 @@ class PocoTestCase(unittest.TestCase):
     * longMessage: determines whether long messages (including repr of
         objects used in assert methods) will be printed on failure in *addition*
         to any explicit message passed.
+        test!
     """
     longMessage = True
 
